@@ -1,2 +1,2 @@
 # COVID-Tracker
-Basic COVID-19 Tracker
+COVID-19 Tracker with Bar Graph
